@@ -1,4 +1,4 @@
-isLocal = True
+﻿isLocal = True
 
 
 # mysql配置
@@ -107,7 +107,9 @@ COLLECTION_NAME_LIST_HF = [
     's_JD_HF_身体护理_润肤水喷雾',
     's_JD_HF_身体护理_精油',
     's_JD_HF_身体护理_抑汗香氛',
-    's_JD_HF_身体护理_其他'
+    's_JD_HF_身体护理_其他',
+	's_JD_HF_唇部_润唇膏啫喱',
+    's_JD_HF_唇部_唇膜',
 ]
 COLLECTION_NAME_LIST_MZ = [
     's_JD_MZ_底妆_粉饼',
@@ -118,10 +120,8 @@ COLLECTION_NAME_LIST_MZ = [
     's_JD_MZ_唇妆_唇膏口红',
     's_JD_MZ_底妆_隔离霜妆前乳',
     's_JD_MZ_眼妆_眉笔',
-    's_JD_MZ_眼妆_睫毛膏',
-    's_JD_MZ_唇妆_润唇膏啫喱',
-    's_JD_MZ_唇妆_唇膜',
-    's_JD_MZ_唇妆_其他',
+    's_JD_MZ_眼妆_睫毛膏',  
+    's_JD_MZ_唇妆_其他',  
     's_JD_MZ_眼妆_眼线',
     's_JD_MZ_眼妆_眼影',
     's_JD_MZ_底妆_遮瑕膏笔',
